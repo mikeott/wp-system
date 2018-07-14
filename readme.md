@@ -12,7 +12,7 @@ Get information and advice about your current WordPress environment.
 
 # How to use
 
-  - Go to **Tools** -> **WP SYStem**
+  - Go to **Tools** -> **WP System**
  
 # Author
 Michael Ott (@mikeyott)
