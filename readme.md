@@ -1,4 +1,4 @@
-# WP System (WordPress)
+# WP System
 
 Get information and advice about your current WordPress environment.
 
