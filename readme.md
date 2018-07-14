@@ -16,7 +16,7 @@ Get information and advice about your current WordPress environment.
  
 # Todo
 
-  - Provide information on how to perform specific actions (eg: how to increase memoery limit) 
+  - Provide information on how to perform specific actions
  
 # Author
 Michael Ott (@mikeyott)
