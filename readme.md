@@ -2,7 +2,7 @@
 
 Easily spot issues with your WordPress environment and server settings.
 
-**Note 1:** This plugin is now [hosted at the official WordPress repo](https://wordpress.org/plugins/wp-system/) and is actively maintained. Future maintenance and updates will be carried out there.
+**Note 1:** This plugin is now [hosted at the official WordPress repo](https://wordpress.org/plugins/wp-system/), has more detail and will be actively maintained. Future maintenance and updates will be carried out there.
 
 **Note 2:** If you still want to use this version of the plugin, it comes with absolutelty no warranty of any kind and will not be updated. Use at your own risk.
 
