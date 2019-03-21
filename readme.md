@@ -18,10 +18,6 @@ Easily spot issues with your WordPress environment and server settings.
 
   - Go to **Tools** -> **WP System**
  
-# Todo
-
-  - Provide information on how to perform specific actions
- 
 # Author
 Michael Ott (@mikeyott)
 https://rocketapps.com.au/
