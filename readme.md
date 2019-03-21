@@ -1,6 +1,6 @@
 # WP System
 
-Get information and advice about your current WordPress environment.
+Easily spot issues with your WordPress environment and server settings.
 
 **Note 1:** This plugin is now [hosted at the official WordPress repo](https://wordpress.org/plugins/wp-system/) and is actively maintained. Future maintenance and updates will be carried out there.
 
